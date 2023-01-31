@@ -1,3 +1,3 @@
 # Instuctions:
-git clone --branch Password_2 --single-branch https://github.com/earth2ryan2earth/Super_AP_Projects.git
-cd Super_AP_Projects
+git clone --branch Password_2.class --single-branch git@github.com:KASHSTASCH/DN.git
+cd DN
