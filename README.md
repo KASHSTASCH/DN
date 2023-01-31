@@ -1,2 +1,3 @@
 # Instuctions:
-To run program, Clone the repository to your device while connected to Lyron Navigat to thee repository using CD Password.java and java Password to guess the answer
+git clone --branch Password_2 --single-branch https://github.com/earth2ryan2earth/Super_AP_Projects.git
+cd Super_AP_Projects
