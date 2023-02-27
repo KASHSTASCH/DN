@@ -26,7 +26,7 @@ def Fistin(beg,end):
             Attempts.add(guess)
             #print(guess)
             Guessing = Cracking(guess)
-            if(Guessing.Crack_pass(fileType,fileName).find("Incorrect")==-1):
+            if(Guessing.Crack_pass(fileType,fileName).find("Password")==-1):
                 stop_event.set()
                 print("we did it the password is: ",Guessing.return_Guess())
                 return
